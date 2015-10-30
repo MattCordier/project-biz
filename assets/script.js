@@ -12,7 +12,7 @@ $("#reset2").click(function() {
 
 $(document).ready(function(){
     $("form").submit(function(){
-        alert("Thank you for contact us!");
+        alert("Thank you for contacting us!");
     });
 });
 
